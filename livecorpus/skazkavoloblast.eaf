@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T20:23:19+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/user/Downloads/skazkavoloblast.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./skazkavoloblast.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9ce6de49-d3a3-4624-beaa-e96815e6d4a6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">104</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="7360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="10630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="20160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="20580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="23920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="24250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="32070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="32230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="39200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="39390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="42330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="42610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="49570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="50350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="59880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="60400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="65300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="65380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="67360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="67480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="69620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="70410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="76230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="76900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="81410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="81640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="83500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="83500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="84915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="84915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="86155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="87020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="93020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="93480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="97940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="98170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="101580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="102090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="109460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="109790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="113830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="114040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="116900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="117220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="119840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="119880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="122180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="122310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="130630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="130930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="134600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="134910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="138920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="139120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="143410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="143595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="148535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="148670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="155470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="155880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="164050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="164300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="167710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="167950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="173060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="173370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="176220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="176480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="179410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="179660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="184720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="185040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="190290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="190450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="194420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="194610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="201290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="201570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="204750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="205140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="210980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="211230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="217510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="217690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="221010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="221180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="226840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="227620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="234020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="234020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="250600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="254100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="271700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="300320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="304440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="304840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="312720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="313000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="316200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="316580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="317860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="317900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="321940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="322230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="326790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="326980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="331760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="331960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="334660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="334800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="335880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="336270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="342630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="343000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="347180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="347340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="353600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="353960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="356820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="357140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="364840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="365040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="367340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="367760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="376000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="376640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="377660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="377760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="378720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="378740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="384320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="384900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="394820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="398140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="405960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="406600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="413700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="414410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="420510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="420560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="423520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="423830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="427750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="428000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="431984"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@ab1994f" TIER_ID="speech@ab1994f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>сказка про горшок //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>вот / ты говоришь / у вас народ ленной //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>а послушай-ка что в нашей стороне делается // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Этаких ленных-то // поискать да и поискать // так и норовят дело-то на чужие плечи столкнуть / самому бы только не делать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>вот этакие-то муж с женой и жили у нас в деревне //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>уж такие ленные были // такие ленные // изо всей округи / дверь-то в избу николи на крюк не закладывали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>прах-то его возьми утром-то вставай да руку и протягивай да опять его скидывай // да и так живем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>вот эта-то баба и свари каши //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>а уж и каша задалась // румяна да рассыпчата крупина от крупинки так и отвалилась //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Выняла эта баба кашу из печи / на стол поставила / маслицем сдобрила / съели кашу / облизываются //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>глядь / а в горшке-то сбоку да на донышке и приварилась каша-то //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>мыть горшок-то надобно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>вот баба-то и говорит мужику //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ну / мужик / я своё дело сделала / кашу сварила / а горшок / тебе мыть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>да полно-ко // мужиково ли дело горшки-то мыть / а и сама вымоешь //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>а и не подумаю //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE> а и я не стану //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>а не станешь так и так стоит //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>сказала баба / сув горшок-то на шесток / а сама на лавку // стоит горшок немытый //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>баба // а баба // а ведь горшок-то немытый стоит //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>а чья череда тот и мой / а я не стану</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>стоял горшок до ночи // лазит мужик спать ложится // лезет на печь-то / а горшок всё тутотка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>баба // а баба // надобно горшок-то вымыть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ой / взвилась баба вихорем //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>сказано твоё дело / ты и мой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ну вот что баба //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>уговор дороже денег // кто завтра первой встанет / да перво слово скажет / тому и горшок мыть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>ладно // лезь на печь-то / там видно будет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>улеглись // мужик-то на печи / баба на лавке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>прошла тёмна ноченька // утром-то никто и не встаёт</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ни тот / ни другая и не шелохнутся // это не хотят горшка-то мыть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>ан бабам-то надо ведь коровушку поить / доить / да в стадо гнать // а она с лавки то и не </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>соседушки коровушек-то прогнали // господи помилуй // что это Маланьи-то не видать / уж всё ли поздорову</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>да / бывает позапозднилась / обратно пойдём не встретим ли</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>и обратно идут нет Маланьи / да нет // видно что-то неладно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>ближняя-то соседушка и сунься в избу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>хвать // и дверь-то не заложена</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>неладно что-то // вошла / перекрестилась // Маланья // матушка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>баба-то лежит на лавке // во все глазоньки глядит / а сама не шелохнется</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>почто коровушку-то не прогоняла// ай непоздоровилось</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>молчит баба // господи помилуй // да что это с тобой приключилось-то // почто молчишь-то</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>молчит баба // что зарезана молчит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>Господи помилуй // да где у тебя мужик-то // Василий // а Василий</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>глянула на печь-то / а Василий тамотко лежит / глазонкь открыл / а сам не ворохнется</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>что это у тебя с жёнкой-то //ай попретилось</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>молчит мужик // а это не хотя горшка-то мыть // не хотя первое словечечко-то молвить</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>всполошилась соседка // оборони Господь // не напущено ли / пойти сказать бабам-то</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>ой побежала по деревне-то // ой бабоньки // дак ведь неладно у Маланьи-то с Василием // пойдит-ко погляди // лежат пластом / один на лавке / другой на печи // глазоньками глядят / а словечушка не молвят</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>прибежали бабы / почитай все собралися лоскочут около Маланьи да Василия / матушки / да что это с вами поделалось-то / Маланьушко / Васильушко / Васильушко / Маланьушко / да почто молчите-то / что приключивши-то</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>батюшка бороду расправил / да к печке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Василий // раб божий // что прилючившись-то // молчит мужик // поп-то к лавке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>раба Б-жия // что с мужем-то</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>молчит баба</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>да уж не отходную ли читать // не за гробом ли посылать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>бабы-то полоскотали / полоскотали / да и вон из избы</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>дело-то оно не стоит // кому печку топить / кому ребят кормить</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>у кого цыплятки / у кого поросятки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>а батюшка-то</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>не / православные / уж эток-то оставить их боязно / уж посидите-то кто-нибудь</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>той некогда / другой некогда / у энтой времечка нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>вот говорят / бабка-то Степанида пущай и посидит / у неё ребята не плачут одна и живет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>а бабка-то Степанида хитрая оказалась</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>нет уж  / батюшко // нынче-то даром / работать никто не станет // а положь жалованье так посижу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>какое ж тебе жалованье-то положить</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>и батюшка-то глазами-то по избе повёл / а на стенке той висит рваная Маланьина кацавейка // вата клоками болтается</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>да вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>батюшка-то говорит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>возьми кацавейку-то // плоха плоха / а всё годится-то хоть ноги-то прикрыть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>только это желанные вы мои батюшка-то проговорил / а баба-то что ошпарена скок с лавки посередь избы руки в боки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>моё-то добро // да не помираю ещё / сама поношу // да из тёплых-то / рученек кому хочу тому и отдам</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>ошалели все // а мужик-то этак тихонечко ноги-то с печи спустил / склонился / да и говорит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>вот баба // ты перво слово молвила // тебет-ко и горшок мыть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>так батюшка-то плюнул да и вон пошёл</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>так вот матушки вы мои / какой народ-то на белом свету-то бывает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>а нигде как у нас / в Устюжне</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@fff1977f" TIER_ID="speech@fff1977f"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" TIER_ID="W-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" TIER_ID="K-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="words"
+        PARENT_REF="speech@fff1977f" TIER_ID="W-Words"/>
+    <TIER DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="speech@fff1977f" TIER_ID="W-IPA"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="W-RGU" TIER_ID="W-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="K-RGU" TIER_ID="K-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech"
+        PARENT_REF="W-Words" TIER_ID="W-POS"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="W-RGph" TIER_ID="W-RGMe"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="K-RGph" TIER_ID="K-RGMe"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="words"
+        PARENT_REF="speech@ab1994f" PARTICIPANT="@ab1994" TIER_ID="transl@ab1994f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>a fairy-tale about a pot</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>here / you say / your people are lazy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>now listen what we have in our place</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>such lazy people // are hard to find // they're constantly tryinto shirk off work upon another</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>such husband and wife were living in our village</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>they were so lazy // so lazy / all over the neigborhood / never closed the front door</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>god damn it you need to get up in the morning reach out to it and open it once again // we're okay now </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>that woman has prepared an oatmeal</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>the porridge was really good ruddy and crumbly each grain is separate</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>/ put it on the table / added butter / [they] ate the poriridge / licking their lips</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>the porridge has sticked to the bottom and the sides of the pot</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>the pot ought to be washed</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>and the woman says to the man</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>I've done my part / and made the porridge / now you need to wash the pot</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>stop it // it's not a work for a man to wash the pot / you can do it yourself</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>I wouldn't even consider</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>neither would I</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>if you don't wash it then it'll stay as it is</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>said woman / the she put the pot on a place / and went on a bench // the pot stayed unwashed</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>woman // hey woman // but the pot is dirty</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>whoever's turn it is, is gonna wash it / and I won't</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>the pot stayed until the night // the man is going to bed // he is climbing up the stove / the pot is still here</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>woman // hey woman // the pot needs to be washed</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>ok // climp up the stove / we'll see</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>laid down // the man is on the stove / the woman is on a bench </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>the dark night has passed // in the morning nobody's getting up</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>neither one of them is moving // don't want to move the pot</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>women need to water cows / milk them / and </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_bfa77d5c-3736-495d-aae6-970427789559">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c313edc0-6e41-465f-b47b-d25645026f0c">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_17a2369c-02ce-409c-9dc7-857fae40c549">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f6c0c6aa-accd-45ba-87b7-ca7467c89321">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_51b613b4-1640-498b-b1c4-8acc5a430505">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f6e28884-75f4-4767-9f24-7b6dc267d1a7">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_db739431-6c1c-4149-aa92-03d4a50dd2ea">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3b3b3023-0dd6-425c-bdd5-4067d9dc4b2e">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cd310479-a0ef-42a6-9f0c-ebc5725e6dec">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_58251971-6ef6-4fe3-9543-e1970eab70fa">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eacd3ef7-6c15-4412-8b51-bb1979936b9b">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f977d55f-82d7-4e7d-96e6-06e2aabe1be5">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ecd71007-8807-4796-89be-3c24020d8365">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_1c09eec3-a5dd-4b89-bb24-68bdf1d08452">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d4a8bc04-5c98-44ab-b95e-ff717409e7e6">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_940fc6bc-b9b3-4abf-8e2f-3c8b4a4e36de">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_69e5b064-3834-44b5-8c51-5a829b7e1bc5">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
